@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_fourier
 data_stream: CE02SHSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_fourier
 end_date: '2022-01-01T02:23:08.193Z'
-last_updated: '2022-01-02T22:33:11.551018Z'
+last_updated: '2022-01-02T22:37:07.389125'
 start_date: '2015-10-07T21:23:08.692Z'
-status: pending
+status: success
